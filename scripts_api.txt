@@ -1,0 +1,25 @@
+Usuario
+
+{
+"nome":"Guilherme"
+}
+
+
+Forum
+{
+"id_criador":"2400300947", 
+"titulo":"Teste", 
+"descricao":"Descrição de teste", 
+"ativo":"True"
+}
+
+Post
+
+{
+
+"id_forum":"2973672607",
+"id_criador":"2400300947",
+"mensagem":"None",
+"visivel":"True"
+
+}
